@@ -1,0 +1,20 @@
+{
+    "name": "ningjian/weixin",
+    "description": "This is a weixin access library.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ningjian",
+            "email": "1163437923@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ningjian\\weixin\\": "src"
+        }
+    }
+}
